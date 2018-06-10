@@ -1,0 +1,17 @@
+// GitGutter Settings - User
+{
+    // (ST3 only) The default mode to open the diff popup. This will be
+    // used for the hover popup, the command palette entry,
+    // and the default key binding.
+    // Possible modes are:
+    // "default": Show the previous git state in the popup
+    // "diff": Compare the git state to the working state and highlight
+    //         the differences in the popup
+    "diff_popup_default_mode": "diff",
+
+    // Show GitGutter information in the minimap
+    // =0: hide markers
+    // >0: width of markers
+    // -1: highlight full line
+    "show_in_minimap": -1,
+}
