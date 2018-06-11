@@ -20,6 +20,7 @@ SublimeREPL → Console inside Sublime Text
 Terminal (open a terminal in the current folder with "Ctrl Maj t" by default but now changed to "ctrl+shift+alt+x")
 Tex Pastry → Multiple selection & numeric sequences,...
 VBSScript → VBA recognition.
+Vue Syntax Highlight
 
 Color Syntax
     ColorSublime
