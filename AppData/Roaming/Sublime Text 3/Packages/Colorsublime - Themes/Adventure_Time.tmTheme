@@ -560,7 +560,7 @@
 			</dict>
 		</dict>
 
-		<!-- Manually Added -->
+<!-- ↓↓↓ Manually Added ↓↓↓ -->
 		<dict>
 		  <key>name</key>
 		  <string>GitGutter deleted</string>
@@ -616,6 +616,7 @@
 		    <string>#F8FA61</string>
 		  </dict>
 		</dict>
+<!-- ↑↑↑ Manually Added ↑↑↑ -->
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
