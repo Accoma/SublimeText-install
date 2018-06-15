@@ -20,3 +20,7 @@ Nice commands to know (not exhaustive):
   • Ctrl + Shift + K → Delete the line.
   • Ctrl + L → Select the line.
   • Ctrl + Shift + C → Kill process.
+  • Ctrl + Shift + J -> Select whole block.
+  • Ctrl + Shift + d -> Duplicate line.
+  • "Ctrl + k", "Ctrl + (i)" -> Fold by level i.
+  • "Ctrl + k", "Ctrl + j"  -> Unfold all
