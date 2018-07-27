@@ -1,4 +1,4 @@
-• On Win:
+a• On Win:
 Anaconda → Python helper.
 AutoFilename → file path autocomplete on string.
 BracketHighlighter
@@ -8,26 +8,27 @@ Git
 Git blame
 GitGutter
 Highlight
-Indent XML → Ctrl + Shift + P & "Indent XML"
-Markdown Extended
-MarkdownPreview
-Package Control
+|Indent XML → Ctrl + Shift + P & "Indent XML"
+|Markdown Extended
+|MarkdownPreview
+*Package Control
 SideBarEnhancement
-SqlBeautifier
+|SqlBeautifier
 SublimeLinter
 SublimeLinter-eslint
 SublimeREPL → Console inside Sublime Text
 Terminal (open a terminal in the current folder with "Ctrl Maj t" by default but now changed to "ctrl+shift+alt+x")
 Tex Pastry → Multiple selection & numeric sequences,...
-VBSScript → VBA recognition.
+|VBSScript → VBA recognition.
 Vue Syntax Highlight
 
 Color Syntax
     ColorSublime
 
 Themes:
-    Seti_Ui
+    Theme - SoDaReloaded
+    
+
     Theme - DC
     Theme - Seti Monokai
-    Theme - SoDaReloaded
     Colorsublime - Themes
