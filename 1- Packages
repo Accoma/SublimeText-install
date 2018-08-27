@@ -2,7 +2,8 @@ a• On Win:
 Anaconda → Python helper.
 AutoFilename → file path autocomplete on string.
 BracketHighlighter
-ColorPicker
+|ColorPicker
+ColorHelper
 Compare Side by Side
 Git
 Git blame
@@ -27,7 +28,7 @@ Color Syntax
 
 Themes:
     Theme - SoDaReloaded
-    
+
 
     Theme - DC
     Theme - Seti Monokai
