@@ -1,4 +1,4 @@
-a• On Win:
+• On Win:
 Anaconda → Python helper.
 AutoFilename → file path autocomplete on string.
 BracketHighlighter
@@ -17,6 +17,7 @@ SideBarEnhancement
 |SqlBeautifier
 SublimeLinter
 SublimeLinter-eslint
+SublimeLinter-stylelint (requires "npm install postcss stylelint" in the project)
 SublimeREPL → Console inside Sublime Text
 Terminal (open a terminal in the current folder with "Ctrl Maj t" by default but now changed to "ctrl+shift+alt+x")
 Tex Pastry → Multiple selection & numeric sequences,...
