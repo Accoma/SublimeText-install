@@ -1,0 +1,39 @@
+{
+    /*
+        Set is a false to disable Anaconda Linting totally
+    */
+    // "anaconda_linting": true,
+
+    /*
+
+        If anaconda_gutter_marks is true, this determines what theme is used.
+        Theme 'basic' only adds dots and circles to gutter.
+
+        Other available themes are 'alpha', 'bright', 'dark', 'hard', "retina"
+       (for retina displays) and 'simple'. To see icons that will be used for
+        each theme check gutter_icon_themes folder in Anaconda package.
+    */
+    "anaconda_gutter_theme": "alpha",
+
+    /*
+        If 'outline' (default) anaconda will outline error lines
+        If 'fill' anaconda will fill the lines
+        If 'none' anaconda will not draw anything on error lines
+    */
+    "anaconda_linter_mark_style": "none",
+
+    // // Set this to false to turn pep8 checking off completely
+    // "pep8": false,
+
+     "pep8_ignore":
+    [
+        "E228",
+        // "E266",
+        "E301",
+        "E302",
+        "E309",
+        "E501",
+    ],
+
+    "swallow_startup_errors": true,
+}

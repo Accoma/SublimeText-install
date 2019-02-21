@@ -1,32 +1,10 @@
-New:
-Put the File .\AppData\Roaming\Sublime Text 3\Packages\Colorsublime - Themes\Adventure_Time.tmTheme into your user folder.
+Put the"Adventure_Time.tmTheme" file from the "Color theme" folder here:
+  -> "%APPDATA%\AppData\Roaming\Sublime Text 3\Packages\Colorsublime - Themes\".
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Old:
-"\AppData\Roaming\Sublime Text 3\Packages\Colorsublime - Themes\"" to change the colorSyntax.
-
+----------------------------------------------------------------------------------------------------
 Interesting themes:
-- Adventure_Time (best for me)
+- Adventure_Time
 - Afterglow
 - AnarchistEighties
 - ant

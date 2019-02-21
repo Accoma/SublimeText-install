@@ -1,0 +1,14 @@
+[
+    { "keys": ["ctrl+shift+c"], "command": "exec", "args": {"kill": true} },
+    { "keys": ["ctrl+shift+x"], "command": "open_terminal" },
+    { "keys": ["ctrl+shift+alt+x"], "command": "open_terminal_project_folder" }, // Only works if "terminal" module is installed
+    { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" }, // By default but erased by the module "terminal"
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"},
+    { "keys": ["ctrl+n"], "command": "transpose" },
+    { "keys": ["ctrl+t"], "command": "new_file" },
+    {
+        "keys": ["ctrl+alt+c"],
+        "command": "sublime_highlight",
+        "args": {"target": "clipboard", "output_type": "rtf"}
+    },
+]

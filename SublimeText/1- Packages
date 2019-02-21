@@ -1,0 +1,36 @@
+• On Win:
+Anaconda → Python helper.
+AutoFilename → file path autocomplete on string.
+BracketHighlighter
+|ColorPicker
+ColorHelper
+Compare Side by Side
+Git
+Git blame
+GitGutter
+Highlight
+|Indent XML → Ctrl + Shift + P & "Indent XML"
+|Markdown Extended
+|MarkdownPreview
+*Package Control
+SideBarEnhancement
+|SqlBeautifier
+SublimeLinter
+SublimeLinter-eslint
+SublimeLinter-stylelint (requires "npm install postcss stylelint" in the project)
+SublimeREPL → Console inside Sublime Text
+Terminal (open a terminal in the current folder with "Ctrl Maj t" by default but now changed to "ctrl+shift+alt+x")
+Tex Pastry → Multiple selection & numeric sequences,...
+|VBSScript → VBA recognition.
+Vue Syntax Highlight
+
+Color Syntax
+    ColorSublime
+
+Themes:
+    Theme - SoDaReloaded
+
+
+    Theme - DC
+    Theme - Seti Monokai
+    Colorsublime - Themes

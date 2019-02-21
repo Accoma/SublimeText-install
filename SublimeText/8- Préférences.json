@@ -1,0 +1,57 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_cycle": true,
+	"auto_complete_delay": 20,
+	"auto_complete_with_fields": true,
+	"color_scheme": "Packages/Colorsublime - Themes/Adventure_Time.tmTheme",
+	"copy_with_empty_selection": false,
+	"dc_use_dark_tab_style1": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"Component-preload.js",
+		"**/build"
+	],
+	"font_face": "Fira Code Medium",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"show_tab_close_buttons": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	],
+	"save_on_focus_lost": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "SoDaReloaded Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
