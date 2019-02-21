@@ -32,7 +32,7 @@
 		"Component-preload.js",
 		"**/build"
 	],
-	"font_face": "Fira Code Medium",
+	"font_face": "Fira Code Retina",
 	"font_options":
 	[
 		"subpixel_antialias"
