@@ -1,7 +1,8 @@
 {
-	"expand_merge_commits_by_default": true,
-	"font_face": "Fira Code Retina",
-	"hide_menu": true,
-	"time_format": "24h",
-	"translate_tabs_to_spaces": true
+    "expand_merge_commits_by_default": true,
+    "font_face": "Fira Code Retina",
+    "font_size": 9,
+    "hide_menu": true,
+    "time_format": "24h",
+    "translate_tabs_to_spaces": true
 }
