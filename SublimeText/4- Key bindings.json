@@ -3,6 +3,7 @@
     { "keys": ["ctrl+shift+x"], "command": "open_terminal" },
     { "keys": ["ctrl+shift+alt+x"], "command": "open_terminal_project_folder" }, // Only works if "terminal" module is installed
     { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" }, // By default but erased by the module "terminal"
+    { "keys": ["ctrl+shift+o"], "command": "prompt_select_workspace"},
     { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"},
     { "keys": ["ctrl+n"], "command": "transpose" },
     { "keys": ["ctrl+t"], "command": "new_file" },
