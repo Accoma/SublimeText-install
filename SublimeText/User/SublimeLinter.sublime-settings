@@ -3,4 +3,19 @@
 
 {
     "gutter_theme": "Koloria",
+    // =============================================================================================
+    // ↓↓↓ Lines to suppress without nodeJs SAP UI5 eslint globally installed. ↓↓↓
+    // Install:
+    //   · npm install -g eslint
+    //   · npm config set "@sap:registry" https://npm.sap.com
+    //   · npm install -g "@sap/di.code-validation.js"
+    "linters": {
+        "eslint": {
+            "args": [
+                "--rulesdir",
+                "%APPDATA%/npm/node_modules/@sap/di.code-validation.js/src/defaultConfig/fioriCustomRules/.eslintrules"
+            ]
+        }
+    },
+    // =============================================================================================
 }
