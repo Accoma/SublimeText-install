@@ -1,31 +1,24 @@
 1- Install Sublime Text 3.
 
-2- Windows only: View → Hide menu (Alt to show it again)
-
-3- View → Side Bar → Show Side Bar
-
-4- Install "Package Control" Module from the website (all is explained there: https://packagecontrol.io/installation).
+2- Install "Package Control" Module from the website (all is explained there: https://packagecontrol.io/installation).
   → Note: if your system is using a proxy, the simple method wil not work.
 
-5- Go throught the next files via Sublime Text in the same order:
+3- Go throught the next files via Sublime Text in the same order:
   1- Install packages you want on the list (Ctr + Shift + P → enter to "Package Control Install" (write "pci") and look for the desired modules). Then restart Sublime Text.
-  2- To copy paste to: "Preferences → Package settings → Bracket Highlighter → Bracket Settings".
-  3- To copy paste to: "Preferences → Package settings → Anaconda → Settings - User".
-  4- To copy paste to: "Preferences → Key Bindings - User" (Module Terminal required).
-    · Ctrl + N (New tab) and Ctrl + T (Transpose caracteres/selections) have been switched.
-  5- To copy paste to: "Preferences → Package settings → SQL Beautifier → Settings - User".
-  6- Install new color syntax:
+
+  2- Install new color syntax:
     · To install a new colorSyntaxe: Ctr + Shift + P → look for the desired ones.
     · To modify an installed colorSyntaxe, follow the instructions.
-  7- Define a new Python build system:
-    → In order to allow utf8 caracters, that cannot be used on Sublime Text due to a bug.
-    · Go to: "Tools → Build System → New Build System...".
-    · Copy paste the code.
-    · save the file under the name \AppData\Roaming\Sublime Text 3\Packages\User\utf8_python.sublime-build
-    · On a python file (with the extension .py), go to "Tools → Build System" and select utf8_python.
-    · The new defined build system will now work by default for all you python files.
-  7.1- To copy paste to: "Preferences → Package settings → GitGutter → Settings - User".
-  7.2- To copy paste to: "Preferences → Package settings → SublimeLinter → Settings - User".
-  8- To copy paste to: "Preferences → Settings - User" (color syntax Adventure_Time required and module DC_3 required).
 
-9- See the Commands file to learn about the most common commands on Sublime Text.
+  3- See the Commands file to learn about the most common commands on Sublime Text.
+
+4- Install the FiraCode font on your OS.
+
+5- Put all required files except "Package Control.sublime-settings" from the User folder into your "%APPDATA%\Sublime Text 3\Packages\User\" folder.
+  · Do not copy paste "Package Control.sublime-settings".
+  · Only copy paste modules you have installed.
+  · Check the dependencies of each one and remove said lines if required.
+
+6- Extra settings
+  · Windows only: View → Hide menu (Alt to show it again).
+  · View → Side Bar → Show Side Bar.

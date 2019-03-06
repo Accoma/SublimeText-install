@@ -1,10 +1,18 @@
+// Sublime text preferences.
+//
+// Dependancies:
+//   · Adventure_Time syntaxic coloration.
+// 	 · Fira font.
+//   · SoDaReloaded theme module.
+//
+
 {
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_cycle": true,
 	"auto_complete_delay": 20,
 	"auto_complete_with_fields": true,
-	"color_scheme": "Packages/Colorsublime - Themes/Adventure_Time.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Adventure_Time.tmTheme", // Line to suppress without the Adventure_Time syntaxic coloration.
 	"copy_with_empty_selection": false,
 	"dc_use_dark_tab_style1": true,
 	"file_exclude_patterns":
@@ -30,9 +38,10 @@
 		"*.db",
 		"*.sublime-workspace",
 		"Component-preload.js",
-		"**/build"
+		"**/build",
+		"**/node_modules"
 	],
-	"font_face": "Fira Code Retina",
+	"font_face": "Fira Code Retina", // Line to suppress without the syntaxic coloration Adventure_Time.
 	"font_options":
 	[
 		"subpixel_antialias"
@@ -51,7 +60,7 @@
 	"save_on_focus_lost": false,
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "SoDaReloaded Dark.sublime-theme",
+	"theme": "SoDaReloaded Dark.sublime-theme", // Line to suppress without the SoDaReloaded theme module.
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

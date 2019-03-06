@@ -1,4 +1,5 @@
-// GitGutter Settings - User
+// GitGutter module.
+//
 {
     // (ST3 only) The default mode to open the diff popup. This will be
     // used for the hover popup, the command palette entry,

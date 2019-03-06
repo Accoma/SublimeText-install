@@ -1,4 +1,6 @@
-// SublimeLinter Settings - User
+// SublimeLinter module.
+//
+
 {
     "gutter_theme": "Koloria",
 }

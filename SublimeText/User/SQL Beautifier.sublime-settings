@@ -1,3 +1,6 @@
+// SQL Beautifier module.
+//
+
 {
     "indent_width": 4,
 }

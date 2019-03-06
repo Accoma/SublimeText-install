@@ -1,4 +1,7 @@
- {
+// BracketHighlighter module.
+//
+
+{
     // Ignore threshold
     "ignore_threshold": true,
     // Show brackets in the minimap.
