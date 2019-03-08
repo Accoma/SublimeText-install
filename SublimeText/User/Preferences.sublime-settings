@@ -39,6 +39,7 @@
 		"*.sublime-workspace",
 		"Component-preload.js",
 		"**/build",
+		"**/dist",
 		"**/node_modules"
 	],
 	"font_face": "Fira Code Retina", // Line to suppress without the syntaxic coloration Adventure_Time.
