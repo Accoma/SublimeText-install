@@ -5,9 +5,9 @@ BracketHighlighter
 |ColorPicker
 ColorHelper
 Compare Side by Side
-Git
-Git blame
-GitGutter
+|Git
+|Git blame
+|GitGutter
 Highlight
 |Indent XML → Ctrl + Shift + P & "Indent XML"
 |Markdown Extended
