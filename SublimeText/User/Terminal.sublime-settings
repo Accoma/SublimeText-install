@@ -7,7 +7,7 @@
     // overridden by passing the "parameters" key with a list value to the args
     // dict when calling the "open_terminal" or "open_terminal_project_folder"
     // commands
-    "parameters": ["/START", "%CWD%"],
+    "parameters": ["/SINGLE", "%CWD%"],
 
     // An environment variables changeset. Default environment variables used for the
     // terminal are inherited from sublime. Use this mapping to overwrite/unset. Use
