@@ -13,7 +13,5 @@
     "disabled_menuitem_empty": true,
     "disabled_menuitem_folder_save": true,
     "disabled_menuitem_folder_close": true,
-
-
-    "default_browser": "firefox-developer-edition",
+    // "default_browser": "firefox-developer-edition",
 }
