@@ -1,7 +1,6 @@
 1- Install Sublime Text 3.
 
-2- Install "Package Control" Module from the website (all is explained there: https://packagecontrol.io/installation).
-  → Note: if your system is using a proxy, the simple method wil not work.
+2- Install "Package Control" Module: ctrl+shift+p & enter "Install Package Control"
 
 3- Go throught the next files via Sublime Text in the same order:
   1- Install packages you want on the list (Ctr + Shift + P → enter to "Package Control Install" (write "pci") and look for the desired modules). Then restart Sublime Text.
@@ -14,7 +13,7 @@
 
 4- Install the FiraCode font on your OS.
 
-5- Put all required files except "Package Control.sublime-settings" from the User folder into your "%APPDATA%\Sublime Text 3\Packages\User\" folder.
+5- Put all required files except "Package Control.sublime-settings" from the "User" folder into your "%APPDATA%\Sublime Text 3\Packages\User\" folder.
   · Do not copy paste "Package Control.sublime-settings".
   · Only copy paste modules you have installed.
   · Check the dependencies of each one and remove said lines if required.

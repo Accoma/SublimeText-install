@@ -1,10 +1,10 @@
-Put the"Adventure_Time.tmTheme" file from the "Color theme" folder here:
-  -> "%APPDATA%\Sublime Text 3\Packages\Colorsublime - Themes\".
+Put the "Colorsublime - Themes" folder from the "Color theme" folder here:
+  -> "%APPDATA%\Sublime Text 3\Packages\".
 
 
 ----------------------------------------------------------------------------------------------------
 Interesting themes:
-- Adventure_Time
+- Adventure_Time (+++)
 - Afterglow
 - AnarchistEighties
 - ant
