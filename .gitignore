@@ -66,3 +66,4 @@ WebApp/cache.manifest
 .metadata/
 *.sublime-project
 *.sublime-workspace
+!*SublimeProjectExample*.sublime-project

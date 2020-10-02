@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns": [
+				"iteropsuite/.idea",
+				"iteropsuite/distribution",
+				"iteropsuite/integration",
+				"iteropsuite/modules/*/target",
+				"iteropsuite/modules/*/test",
+				"iteropsuite/modules/*/libs",
+				"iteropsuite/modules/*/build",
+				"iteropsuite/modules/*/dist",
+				"iteropsuite/modules/*/node_modules"
+			],
+			"path": "W:\\InteropSys\\iteropsuite"
+		}, {
+			"path": "C:\\Users\\valen\\sync\\documents\\Saves\\Iterop"
+		}
+	]
+}

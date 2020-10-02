@@ -9,13 +9,13 @@
     //   · npm install -g eslint
     //   · npm config set "@sap:registry" https://npm.sap.com
     //   · npm install -g "@sap/di.code-validation.js"
-    "linters": {
-        "eslint": {
-            "args": [
-                "--rulesdir",
-                "%APPDATA%/npm/node_modules/@sap/di.code-validation.js/src/defaultConfig/fioriCustomRules/.eslintrules"
-            ]
-        }
-    },
+    // "linters": {
+    //     "eslint": {
+    //         "args": [
+    //             "--rulesdir",
+    //             "%APPDATA%/npm/node_modules/@sap/di.code-validation.js/src/defaultConfig/fioriCustomRules/.eslintrules"
+    //         ]
+    //     }
+    // },
     // =============================================================================================
 }
