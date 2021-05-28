@@ -11,9 +11,11 @@ Djaneiro → Django framework
 |GitGutter
 Highlight
 |Indent XML → Ctrl + Shift + P & "Indent XML"
-|Markdown Extended
-|MarkdownPreview
+| MarkdownEditing
+||Markdown Extended
+||MarkdownPreview
 *Package Control
+Sass
 SideBarEnhancement
 |SqlBeautifier
 SublimeLinter
