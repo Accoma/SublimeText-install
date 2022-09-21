@@ -4,5 +4,8 @@
     "font_size": 9,
     "hide_menu": true,
     "time_format": "24h",
-    "translate_tabs_to_spaces": true
+    "translate_tabs_to_spaces": true,
+    "editor_argument_format": "--line ${line} --column ${col} ${file}",
+    "editor_path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2022.2.2\\bin\\idea64.exe",
+    "theme": "Merge Dark.sublime-theme",
 }
