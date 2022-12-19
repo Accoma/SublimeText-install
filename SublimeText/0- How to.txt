@@ -13,7 +13,7 @@
 
 4- Install the FiraCode font on your OS.
 
-5- Put all required files except "Package Control.sublime-settings" from the "User" folder into your "%APPDATA%\Sublime Text 3\Packages\User\" folder.
+5- Put all required files except "Package Control.sublime-settings" from the "User" folder into your "%APPDATA%\Sublime Text\Packages\User\" folder.
   · Do not copy paste "Package Control.sublime-settings".
   · Only copy paste modules you have installed.
   · Check the dependencies of each one and remove said lines if required.

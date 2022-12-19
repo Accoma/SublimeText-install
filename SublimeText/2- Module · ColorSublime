@@ -1,5 +1,5 @@
 Put the "Colorsublime - Themes" folder from the "Color theme" folder here:
-  -> "%APPDATA%\Sublime Text 3\Packages\".
+  -> "%APPDATA%\Sublime Text\Packages\".
 
 
 ----------------------------------------------------------------------------------------------------
@@ -18,4 +18,4 @@ Interesting themes:
 - TomorrowNight
 
 Change the background of "BetterJS" color syntaxe by modifying the file:
-  "\AppData\Roaming\Sublime Text 3\Packages\Colorsublime - Themes\Better_JS.tmTheme"
+  "\AppData\Roaming\Sublime Text\Packages\Colorsublime - Themes\Better_JS.tmTheme"
