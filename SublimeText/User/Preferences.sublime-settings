@@ -40,7 +40,7 @@
         "dist/*",
         "node_modules/*"
     ],
-    "font_face": "Fira Code Retina", // Line to suppress without the syntaxic coloration Adventure_Time.
+    "font_face": "Fira Code Retina", // Line to suppress without the dependency Fira font.
     "font_options":
     [
         "subpixel_antialias"

@@ -1,9 +1,31 @@
+# Sublime text full install
+
+- install Sublime Text 3.
+
+- install "Package Control" Module: ctrl+shift+p & enter "Install Package Control"
+
+- install the FiraCode font on the OS.
+
+- install following packages (Ctr + Shift + P → "Package Control Install"). Then restart Sublime Text.
+  - BracketHighlighter
+  - ColorHelper
+  - Highlight
+  - Package Control
+  - Sass
+  - SideBarEnhancements
+  - Tex Pastry → Multiple selection & numeric sequences,...
+  - Unicode Character Highlighter
+  - Vue Syntax Highlight
+
+- put all files from `.User/` folder into `%APPDATA%/Sublime Text/Packages/User` (on windows).
+
+- apply following settings:
+
+``` json
 // Sublime text preferences.
 //
-// Dependancies:
-//   · Adventure_Time syntaxic coloration.
-// 	 · Fira font.
-//   · SoDaReloaded theme module.
+// Dependencies:
+//   · Fira font.
 //
 
 {
@@ -12,7 +34,7 @@
     "auto_complete_cycle": true,
     "auto_complete_delay": 20,
     "auto_complete_with_fields": true,
-    "color_scheme": "Packages/Colorsublime - Themes/Adventure_Time.tmTheme", // Line to suppress without the Adventure_Time syntaxic coloration.
+    "color_scheme": "Mariana.sublime-color-scheme",
     "copy_with_empty_selection": false,
     "dc_use_dark_tab_style1": true,
     "file_exclude_patterns":
@@ -42,7 +64,7 @@
         "dist/*",
         "node_modules/*"
     ],
-    "font_face": "Fira Code Retina", // Line to suppress without the syntaxic coloration Adventure_Time.
+    "font_face": "Fira Code Retina", // Line to suppress without the dependency Fira font.
     "font_options":
     [
         "subpixel_antialias"
@@ -61,8 +83,12 @@
     "save_on_focus_lost": false,
     "show_encoding": true,
     "show_line_endings": true,
-    "theme": "SoDaReloaded Dark.sublime-theme", // Line to suppress without the SoDaReloaded theme module.
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "fade_fold_buttons": false,
 }
+```
+
+- Extra settings
+  · Windows only: View → Hide menu (Alt to show it again).
+  · View → Side Bar → Show Side Bar.
